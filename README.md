@@ -2,4 +2,4 @@
 app voor lijstje maken wat moet ik nog doen
 
 Gemaakt door:
-Sietze en Niels
+Sietse en Niels
